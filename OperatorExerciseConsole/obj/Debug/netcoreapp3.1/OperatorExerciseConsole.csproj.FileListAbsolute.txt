@@ -1,0 +1,13 @@
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.exe
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.deps.json
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.json
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.dev.json
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csprojAssemblyReference.cache
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfo.cs
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\mbfla\source\repos\OperatorExerciseConsoleApp\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.genruntimeconfig.cache
